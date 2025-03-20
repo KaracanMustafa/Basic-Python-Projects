@@ -14,4 +14,4 @@ This repository is licensed under the MIT License
 
 ## Author
 
-- **Your Name** - [GitHub Profile](https://github.com/KaracanMustafa)
+- **Mustafa Karacan** - [GitHub Profile](https://github.com/KaracanMustafa)
